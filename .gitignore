@@ -1,0 +1,5 @@
+# Project exclude paths
+/imooc-bilibili-api/target/
+/imooc-bilibili-dao/target/
+/imooc-bilibili-service/target/
+*.idea
